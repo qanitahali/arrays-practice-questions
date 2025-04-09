@@ -1,0 +1,1 @@
+This repository includes solutions to **array-related questions** written in **C++**, taken from a collection PF practice questions provided in the `PF practice.pdf` file. The PDF contains questions from various topics, but repository focuses only on **array questions**. Each solution corresponds to the original question number from the PDF.
